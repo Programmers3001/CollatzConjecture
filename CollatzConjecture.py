@@ -1,6 +1,5 @@
 import random
 from matplotlib import pyplot as plt
-from collections import OrderedDict
 r=0
 x=[]
 y=[]
